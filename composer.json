@@ -1,0 +1,13 @@
+{
+  "name": "Moritz/Flaggen",
+  "description": "Mit diesem kleinen PhP File kann man Flaggen erstellen",
+  "type": "project",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Moritz Poechhacker",
+      "email": "moritz.poechhacker@gmail.com"
+    }
+  ]
+}
